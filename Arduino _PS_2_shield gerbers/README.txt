@@ -1,0 +1,1 @@
+The board cut-out is contained within the top and bottom copper layer. The files were made with eagle.

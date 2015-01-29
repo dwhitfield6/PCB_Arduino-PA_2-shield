@@ -14900,7 +14900,7 @@ Source: www.kingbright.com</description>
 <part name="GND7" library="supply1" deviceset="GND" device=""/>
 <part name="R6" library="rcl" deviceset="R-US_" device="0207/10" value="470"/>
 <part name="C1" library="rcl" deviceset="C-US" device="025-030X050" value="100nF"/>
-<part name="C3" library="rcl" deviceset="CPOL-US" device="E5-5" value="47uF"/>
+<part name="C3" library="rcl" deviceset="CPOL-US" device="E5-5" value="47Uf"/>
 <part name="GND3" library="supply1" deviceset="GND" device=""/>
 <part name="GND8" library="supply1" deviceset="GND" device=""/>
 <part name="P+5" library="supply1" deviceset="+5V" device=""/>
